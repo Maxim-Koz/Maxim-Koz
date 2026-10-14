@@ -8,3 +8,5 @@ I'm a maths student at the University of Warwick, interested in computer science
 - 🌱 Working through algorithm and data structure problems to build my problem-solving skills
 - 📐 Offering GCSE and A-level maths and further maths tutoring
 
+### Links
+- [LinkedIn](www.linkedin.com/in/maxim-kozlovskiy)
