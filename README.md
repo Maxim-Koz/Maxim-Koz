@@ -9,4 +9,4 @@ I'm a maths student at the University of Warwick, interested in computer science
 - 📐 Offering GCSE and A-level maths and further maths tutoring
 
 ### Links
-- [LinkedIn](www.linkedin.com/in/maxim-kozlovskiy)
+- [LinkedIn](https://www.linkedin.com/in/maxim-kozlovskiy)
