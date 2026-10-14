@@ -4,7 +4,7 @@ I'm a maths student at the University of Warwick, interested in computer science
 
 ### What I'm up to
 - 🔭 Building projects to learn software development, including a gym rep tracker app in Dart/Flutter
-- ⚡ Daily Linux user (CachyOS) who enjoys open source
+- ⚡ Daily Linux user who enjoys open source
 - 🌱 Working through algorithm and data structure problems to build my problem-solving skills
 - 📐 Offering GCSE and A-level maths and further maths tutoring
 
